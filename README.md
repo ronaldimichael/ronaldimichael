@@ -10,10 +10,10 @@ Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ronaldi-maekel-bang-2715b637b/) ku ya.
 
-## Github Statistic
+## GitHub Statistic
 <p align="left">
 <a href="https://github.com/ronaldimichael">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldimichael&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronaldimichael&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
